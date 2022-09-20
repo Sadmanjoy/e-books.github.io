@@ -1,0 +1,47 @@
+body{
+    background:url(image/wl.jpg);
+    
+}
+
+h2{
+    font-family: Gulim;
+    color:rgb(0, 154, 0);
+}
+
+
+
+
+.tx{
+    font-size: 25px;
+    font-family: Goudy Old Style;
+}
+
+.tx2{
+    font-size: 20px;
+    
+    
+
+}
+hr{
+    background-color: aliceblue;
+    
+}
+.nav-link{
+   
+    
+    font-family: ubontu;
+    font-size: larger;
+    color: rgb(41, 108, 167);
+    
+}
+
+.p{
+    color: white;
+	font-size: 25px;
+	-webkit-text-stroke: 1px rgb(41, 108, 167);
+	text-shadow: -1px 1px 2px rgb(41, 108, 167),
+				  1px 1px 2px rgb(41, 108, 167),
+				  1px -1px 0 rgb(41, 108, 167),
+				  -1px -1px 0 rgb(41, 108, 167);
+}
+

@@ -1,0 +1,42 @@
+body{
+    background-color: #1f1f1f;
+}
+
+.hd{
+    background-color:#ff6f58 ;
+    
+    
+}
+
+.des{
+    color: aqua;
+    font-size: 40px;
+    font-family: Impact;
+}
+
+h3{
+     
+    border: 2px solid cadetblue;
+    margin: auto;
+    width: 30%;
+  
+}
+
+.car{
+    height: 50%;
+    width: 50%;
+    margin: auto;
+    
+}
+
+.para{
+    color: white;
+    text-align: center;
+    font-size: larger;
+}
+
+.para2{
+    color: white;
+    text-align: center;
+    font-size: larger;
+}
