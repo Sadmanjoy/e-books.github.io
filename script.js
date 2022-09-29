@@ -51,7 +51,7 @@ var swiper = new Swiper(".books-slider", {
   loop:true,
   centeredSlides: true,
   autoplay: {
-    delay: 9500,
+    delay: 4000,
     disableOnInteraction: false,
   },
   breakpoints: {

@@ -13,9 +13,12 @@ h2{
 
 .tx{
     font-size: 20px;
-    font-family: Goudy Old Style;
+  
 }
-
+.nav-item{
+    border: 0.2px solid black;
+    margin: 5px;
+}
 .tx2{
     font-size: 20px;
     
